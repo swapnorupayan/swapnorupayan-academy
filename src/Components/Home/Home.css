@@ -1,0 +1,13 @@
+.gridDesign{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.instructor{
+    border-bottom: 3px solid rgb(252, 120, 59);
+}
+
+.all3{
+ 
+    font-weight: bolder;
+}
